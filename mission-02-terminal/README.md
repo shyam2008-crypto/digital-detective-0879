@@ -68,5 +68,5 @@ Not applicable
 
 # 11.Commit details
 
-The commint message was Complete Terminal and file management mission,  and successfully pushed to the Github repo.
+The commint message was Complete Terminal and file management mission,  and successfully pushed to the Github repo..
 
