@@ -52,4 +52,4 @@ I read the error messages and typed the commands again correctly. For the reject
 mission-08-final-report/README.md, the repository on GitHub, Pull Request 1 and the commit history
 
 # 11. Commit details
-Commit message: Complete final report and verify assignment submission. Pushed to GitHub
+Commit message: Complete final report and verify assignment submission. Pushed to GitHub.
